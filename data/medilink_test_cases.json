@@ -1,0 +1,423 @@
+[
+  {
+    "id": 1,
+    "patient_input": "I've had a runny nose and mild cough for about two days. No fever. Should I be worried?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 2,
+    "patient_input": "I woke up with a sore throat this morning. It's a little painful when I swallow but nothing too bad.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 3,
+    "patient_input": "My nose has been stuffy for three days and I feel kind of tired. Is this just a cold?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 4,
+    "patient_input": "I've been sneezing a lot and have watery eyes. I think it might be allergies but I'm not sure.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 5,
+    "patient_input": "I have a low-grade fever of about 99.5 and feel achy all over. I've been resting at home.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 6,
+    "patient_input": "My cough started yesterday. It's dry and a little annoying but I don't feel that sick overall.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 7,
+    "patient_input": "I tested positive for COVID yesterday. My symptoms are mild \u2014 just tired and a bit congested. What should I do?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 8,
+    "patient_input": "I've had a headache and body aches since this morning along with a slight cough. My temperature is 100.1.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 9,
+    "patient_input": "I lost my sense of smell two days ago. No other major symptoms except a mild runny nose.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 10,
+    "patient_input": "My throat is scratchy and I've been feeling run down. I've been drinking lots of fluids and resting.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 11,
+    "patient_input": "I have a fever of 101 and feel chilly even though it's warm. My muscles are sore. Is this the flu?",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 12,
+    "patient_input": "I've been coughing for about a week now. It's mostly dry but gets worse at night. No fever.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 13,
+    "patient_input": "I feel really fatigued and have no appetite. I have a low fever and a cough but nothing severe.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 14,
+    "patient_input": "My 6-year-old has a runny nose and a mild fever of 100.5. She seems okay but I want to make sure I'm doing the right things.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 15,
+    "patient_input": "I had a fever for two days that broke this morning. I still have a lingering cough and feel weak. When can I go back to work?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 16,
+    "patient_input": "I have a stuffy nose, mild sore throat, and I've been sneezing. Started yesterday. I'm 67 years old.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 17,
+    "patient_input": "I've been coughing up a little bit of clear mucus. No fever, no chest pain. Just feels like a chest cold.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 18,
+    "patient_input": "I tested positive for flu yesterday. I have a fever and body aches. What treatment options do I have?",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 19,
+    "patient_input": "I have diabetes and I started getting a cough and runny nose today. Should I be more careful given my condition?",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 20,
+    "patient_input": "My symptoms got a little better yesterday but today my cough is back and I feel feverish again. Is that normal?",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 21,
+    "patient_input": "I'm 70 years old and I have a mild cough and slight fever. I take medication for heart disease. What should I do?",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 22,
+    "patient_input": "I've been feeling under the weather for about four days. Mostly congestion, mild cough, and some tiredness.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 23,
+    "patient_input": "I have a sore throat that started two days ago. No fever. I'm just wondering if I should see a doctor.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 24,
+    "patient_input": "My toddler has been coughing and has a low fever since last night. She's eating okay but seems tired.",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 25,
+    "patient_input": "I've had body aches and chills for two days. My temperature is around 100.8. I think I have the flu.",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 26,
+    "patient_input": "I'm pregnant and I just started having a runny nose and mild cough. I want to make sure everything is okay.",
+    "severity": "moderate",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 27,
+    "patient_input": "I've had a dry cough for about 10 days now. No fever or other symptoms. Should I be concerned?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 28,
+    "patient_input": "I feel exhausted and have a headache. No cough, no fever. Could this be the start of something?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 29,
+    "patient_input": "I tested negative for COVID but I still have a runny nose and sore throat. How long should I stay home?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 30,
+    "patient_input": "My symptoms have mostly improved but I still have a slight cough. Is it safe to be around other people again?",
+    "severity": "mild",
+    "requires_escalation": false,
+    "red_flags": []
+  },
+  {
+    "id": 31,
+    "patient_input": "I have chest pain that keeps coming back and it's hard to breathe. It started about 20 minutes ago.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "chest pain",
+      "hard to breathe"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 32,
+    "patient_input": "I'm having difficulty breathing and feel like I can't get enough air. My lips look a little blue.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "difficulty breathing",
+      "lips blue"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 33,
+    "patient_input": "My child is breathing very fast and their lips are turning blue. What do I do?",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "breathing very fast",
+      "lips turning blue"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 34,
+    "patient_input": "I've been coughing up blood for the past hour. Is this serious?",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "coughing up blood"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 35,
+    "patient_input": "I suddenly feel very confused and I can't breathe properly. My chest feels like it has pressure on it.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "confused",
+      "chest pressure"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 36,
+    "patient_input": "I passed out earlier and now I feel extremely short of breath. Should I call someone?",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "passed out",
+      "short of breath"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 37,
+    "patient_input": "I have severe shortness of breath and I feel like I might faint. My hands are shaking.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "severe shortness"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 38,
+    "patient_input": "My elderly mother is confused and disoriented and she can't seem to breathe right. She has a fever too.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "confused",
+      "disoriented"
+    ],
+    "keyword_style": "direct"
+  },
+  {
+    "id": 39,
+    "patient_input": "I feel like someone is sitting on my chest and I can't seem to get a full breath no matter how hard I try.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "chest pressure equivalent",
+      "breathing difficulty equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 40,
+    "patient_input": "Every time I try to take a deep breath it hurts really bad inside my chest. It started about an hour ago.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "chest pain equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 41,
+    "patient_input": "I keep coughing and there's a pinkish red color in what I'm spitting up. Is that normal with a chest cold?",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "hemoptysis equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 42,
+    "patient_input": "My breathing feels really labored and heavy right now, like every breath is a struggle. I've never felt this way before.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "breathing difficulty equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 43,
+    "patient_input": "I feel extremely lightheaded and my thoughts are really foggy. I can barely hold a conversation. I also have a bad cough.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "altered mental status equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 44,
+    "patient_input": "My son went completely limp and unresponsive for about a minute while coughing. He came around but looks very pale.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "loss of consciousness equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 45,
+    "patient_input": "I can't stop panting. I'm breathing really fast and I can't slow it down even when I try to calm myself.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "rapid breathing equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 46,
+    "patient_input": "There's a tightness in the middle of my chest that won't go away and I feel winded just sitting still.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "chest tightness equivalent",
+      "dyspnea equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 47,
+    "patient_input": "My baby's skin has a grayish color around the mouth and she's making a grunting sound with each breath.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "cyanosis equivalent",
+      "respiratory distress equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 48,
+    "patient_input": "I feel like I'm going to pass out. My head is spinning and I can barely catch my breath. I've had the flu for three days.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "near syncope equivalent",
+      "dyspnea equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 49,
+    "patient_input": "I woke up in the middle of the night gasping. I couldn't speak for a moment. I feel okay now but I'm scared.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "nocturnal dyspnea equivalent"
+    ],
+    "keyword_style": "indirect"
+  },
+  {
+    "id": 50,
+    "patient_input": "My chest hurts when I inhale and I've been coughing up something that looks a bit bloody. I'm really scared.",
+    "severity": "emergency",
+    "requires_escalation": true,
+    "red_flags": [
+      "chest pain equivalent",
+      "hemoptysis equivalent"
+    ],
+    "keyword_style": "mixed"
+  }
+]
