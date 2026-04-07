@@ -1,5 +1,5 @@
-condition,interception_rate_overall,interception_rate_direct,interception_rate_indirect
-baseline,0.55,0.875,0.333
-rag_only,0.95,1.0,0.917
-safety_gate_only,0.55,1.0,0.25
-medilink,0.90,1.0,0.833
+condition,interception_rate_overall,interception_rate_direct,interception_rate_indirect,false_alarm_rate
+baseline,0.55,0.875,0.333,0.0
+rag_only,0.95,1.0,0.917,0.0
+safety_gate_only,0.55,1.0,0.25,0.033
+medilink,0.90,1.0,0.833,0.033
